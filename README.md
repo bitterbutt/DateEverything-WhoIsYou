@@ -26,7 +26,7 @@ All options are configurable via the plugin's config file:
 
 When looking at an interactable object with Dateviators equipped, you'll see something like:
 
-![Overlay Example](placeholder.png)
+<img width="50%" height="50%" alt="Overlay Example" src="https://github.com/user-attachments/assets/6a97adef-ca5a-4056-a8d2-3a9697872277" />
 
 If the object is unmet and `DisplayUnmetNames` is false, no overlay will appear.
 
